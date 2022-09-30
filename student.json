@@ -1,28 +1,28 @@
 {
     "employee": [
       {
-        "name":       "Gaurav Dhaokhule",
-        "Branch":      "Computer",
+        "name":       "Sakshi Rokade",
+        "Branch":      "E&TC",
         "Fav_Subject":   "Maths",
-        "Hobby"      :   "Coding"
+        "Hobby"      :   "designing"
     },
 
     {
-      "name":       "Yash Mali",
-      "Branch":      "Computer",
+      "name":       "Pranita Choure",
+      "Branch":      "E&TC",
       "Fav_Subject": "Maths",
-      "Hobby"    : "Football"
+      "Hobby"    : "painting"
 
     } 
     {
 
-      "name":       "shruti",
+      "name":       "Gayatri",
 
-      "Branch":      "Computer",
+      "Branch":      "IT",
 
       "Fav_Subject": "Maths",
 
-      "Hobby"    : "cricket"
+      "Hobby"    : "badminton"
 
     } 
 
